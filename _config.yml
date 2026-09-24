@@ -24,16 +24,16 @@ repository               : "sandymbwilson/sandymbwilson.github.io"
 author:
   # Biographic information
   avatar           : "SW_photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Sandy M. B. Wilson"
   pronouns         : "he/him"  
   bio              : "Teaching Fellow at University of Glasgow. Sleep health / sport and exercise science "
   location         : "Glasgow"
   employer         : "University of Glasgow"
-  uri              : # URL
+  uri              : "https://www.gla.ac.uk/stafflist/search/person/4ed9ece08b96/"
   email            : "sandymbwilson@gmail.com" 
 
   # Academic websites
-  academia         : "https://www.gla.ac.uk/stafflist/search/person/4ed9ece08b96/"
+  academia         : "https://www.academia.edu/"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=upOSLPIAAAAJ&hl=en"
   inspire-hep      : # URL
